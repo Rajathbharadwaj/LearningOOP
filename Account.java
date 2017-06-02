@@ -1,7 +1,7 @@
 package com.learningOOP;
 
 /**
- * Created by BIC on 6/3/2017.
+ * Created by RajathBharadwaj on 6/3/2017.
  */
 public class Account {
 
